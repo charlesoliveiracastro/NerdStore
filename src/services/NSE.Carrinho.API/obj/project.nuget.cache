@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/t4G9FGrbh3NfBMW6nCYXbaJGfpZVjH9dRw2nl4o5jXeSVlB7ALnUTpWo1EM3BBUXiT0CelxCWk2AYvIiUgog==",
+  "success": true,
+  "projectFilePath": "C:\\src\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

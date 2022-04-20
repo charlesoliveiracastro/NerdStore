@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7zxY6rgGaQS+Dt8zlMrT4k55ORG2jW8MFd0UkuBn5/cMNMvN93Iqic4ciWynNp4AbBfhUK1taC0ZkpqSctnOw==",
+  "success": true,
+  "projectFilePath": "C:\\src\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

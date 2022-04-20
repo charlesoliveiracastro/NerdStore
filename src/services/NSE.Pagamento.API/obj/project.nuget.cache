@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kfqduGDrVoyFRdV+P+7zzC18LWlAN+YSraZ4ipYpmkne7lOaOVAnOzYEpES6BK3UYSZ7tEnCTQvHKZ/mLTy9YA==",
+  "success": true,
+  "projectFilePath": "C:\\src\\NerdStoreEnterprise\\src\\services\\NSE.Pagamento.API\\NSE.Pagamento.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
